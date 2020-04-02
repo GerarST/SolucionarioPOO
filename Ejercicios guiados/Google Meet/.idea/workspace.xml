@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78f6a1e9-10bb-49a3-b058-3b9bbb57940d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxkoIOkAQIJ6kzC8NVCT5B3Alm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.WRMH.x00019618.Main" />
+      <module name="Google Meet" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1585796044489">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="527" y="63" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585796044489" />
+    <state width="1510" height="202" key="GridCell.Tab.0.bottom" timestamp="1585799864723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="202" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585799864723" />
+    <state width="1510" height="202" key="GridCell.Tab.0.center" timestamp="1585799864723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="202" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585799864723" />
+    <state width="1510" height="202" key="GridCell.Tab.0.left" timestamp="1585799864723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="202" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585799864723" />
+    <state width="1510" height="202" key="GridCell.Tab.0.right" timestamp="1585799864723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1510" height="202" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585799864723" />
+    <state x="26" y="115" key="SettingsEditor" timestamp="1585791654561">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="26" y="115" key="SettingsEditor/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585791654561" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1585796757765">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1585796757765" />
+  </component>
+</project>
