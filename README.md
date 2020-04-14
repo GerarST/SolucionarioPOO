@@ -28,3 +28,6 @@ Ejercicio de HerramientrasMinecraft.
 
 ### Laboratorio 03
 Ejercicio de parquímetro.
+
+### Laboratorio 04
+Ejercicio de inventario.
