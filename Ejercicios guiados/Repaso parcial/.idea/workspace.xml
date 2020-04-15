@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="439f93c8-b92e-47a1-8de2-7ad53860bc60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a6IMjFtBasGwFCpYh1QYCaNVym" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.WRMH.x00019618.Main" />
+      <module name="Repaso parcial" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1586057116192">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586057116192" />
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586052044302">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="421" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586052044302" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1586915097167">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586915097167" />
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1586057397747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586057397747" />
+    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1586057397747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="212" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586057397747" />
+    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1586057397747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="212" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586057397747" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1586057397747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="212" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586057397747" />
+    <state x="429" y="37" key="new project wizard" timestamp="1586915101739">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="429" y="37" key="new project wizard/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1586915101739" />
+  </component>
+</project>
