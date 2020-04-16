@@ -2,7 +2,7 @@
 Soluciones de ejercicios de portafolio, laboratorio y demás.
 
 ## Novedades
-* Añadida sesión de Google Meet, miércoles 1 de abril
+* Añadida sesión extraordinaria de Google Meet, miércoles 1 de abril
 * Añadida sesión de Google Meet, martes 14 de abril: <br>
 https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04
 
