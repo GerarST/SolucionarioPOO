@@ -13,7 +13,6 @@ martes 14 de abril. Ejercicio sobre excepciones.
 * Añadida 
 <a href="https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04">sesión de Google Meet</a>
 jueves 16 de abril. Ejercicio sobre excepciones. 
-<a href="https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Jueves%2016-04">Meet</a>
 
 
 
