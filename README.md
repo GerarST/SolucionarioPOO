@@ -1,16 +1,18 @@
 # Solucionario POO
 Soluciones de ejercicios de portafolio, laboratorio y demás.
 
+---
 ## Novedades
 * Añadida sesión extraordinaria de Google Meet, miércoles 1 de abril
 * Añadida sesión de Google Meet, martes 14 de abril: <br>
 https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04
 * Añadida descripción del parcial 01 [acá](#parciales).
 
+---
 ## Utilidades
 Si alguien tiene alguna consulta de algun ejercicio ya resuelto, en la pestaña de "Issues" puede crear un tema nuevo consultado específicamente. Cabe destacar que los ejercicios subidos son **propuestas** de solución, no es que específicamente deban ser resueltos así los ejercicios.
 
-
+---
 ## Portafolio
 
 ### Semana 01
@@ -23,7 +25,8 @@ Si alguien tiene alguna consulta de algun ejercicio ya resuelto, en la pestaña 
   
 * Ejercicio 02.<br>
   Modificación de ejercicio de libros y autores
-  
+
+---
 ## Laboratorios
 
 ### Laboratorio 02
@@ -35,7 +38,7 @@ Ejercicio de parquímetro.
 ### Laboratorio 04
 Ejercicio de inventario.
 
-
+---
 ## Parciales
 
 ### Parcial 01
@@ -53,8 +56,9 @@ Se solicita, que a partir del siguiente diagrama UML, realice lo siguiente:
 * En el Main, cree dos objetos, uno de tipo ServicioProfesional y otro de tipo PlazaFija.
 * Para ambos objetos, calcule el pago respectivo y muestre los totales.
 
-Nota: en la clase estática, los atributos de los totales son acumuladores de los descuentos que se le realizan a cada empleado. Y calcular sueldo se refiere al sueldo liquido, es decir, salario base - descuentos.
+**Nota: en la clase estática, los atributos de los totales son acumuladores de los descuentos que se le realizan a cada empleado. Y calcular sueldo se refiere al sueldo liquido, es decir, salario base - descuentos.**
 
+---
 
 #### Enunciado parejas
 ![alt text](./Img/Par.png)
@@ -73,4 +77,6 @@ Se solicita, que a partir del siguiente diagrama UML, realice lo siguiente:
   </ul>
 </ul>
 
-Nota: en la clase estática, los atributos de los totales son acumuladores de los descuentos que se le realizan a cada empleado. Y calcular sueldo se refiere al sueldo liquido, es decir, salario base - descuentos.
+**Nota: en la clase estática, los atributos de los totales son acumuladores de los descuentos que se le realizan a cada empleado. Y calcular sueldo se refiere al sueldo liquido, es decir, salario base - descuentos.**
+
+---
