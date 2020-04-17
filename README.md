@@ -69,7 +69,7 @@ Se solicita, que a partir del siguiente diagrama UML, realice lo siguiente:
 ---
 
 #### Enunciado parejas
-![alt text](./Img/Par.png)
+![alt text](./Img/ParCorregido.png)
 Se solicita, que a partir del siguiente diagrama UML, realice lo siguiente:
 
 
