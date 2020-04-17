@@ -3,10 +3,19 @@ Soluciones de ejercicios de portafolio, laboratorio y demás.
 
 ---
 ## Novedades
-* Añadida sesión extraordinaria de Google Meet, miércoles 1 de abril
-* Añadida sesión de Google Meet, martes 14 de abril: <br>
-https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04
 * Añadida descripción del parcial 01 [acá](#parciales).
+* Añadida sesión extraordinaria de Google Meet, miércoles 1 de abril.
+* Añadida 
+<a href="https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04">sesión de Google Meet</a>
+martes 14 de abril. Ejercicio sobre excepciones. 
+
+
+* Añadida 
+<a href="https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Martes%2014-04">sesión de Google Meet</a>
+jueves 16 de abril. Ejercicio sobre excepciones. 
+<a href="https://github.com/Walter26/SolucionarioPOO/tree/master/Ejercicios%20guiados/Sesiones%20Google%20Meet/Jueves%2016-04">Meet</a>
+
+
 
 ---
 ## Utilidades
