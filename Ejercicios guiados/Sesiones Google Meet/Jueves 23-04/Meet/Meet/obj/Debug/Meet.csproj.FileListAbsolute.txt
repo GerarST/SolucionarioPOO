@@ -1,0 +1,5 @@
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\Sesiones Google Meet\Jueves 23-04\Meet\Meet\bin\Debug\Meet.exe
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\Sesiones Google Meet\Jueves 23-04\Meet\Meet\bin\Debug\Meet.pdb
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\Sesiones Google Meet\Jueves 23-04\Meet\Meet\obj\Debug\Meet.csprojAssemblyReference.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\Sesiones Google Meet\Jueves 23-04\Meet\Meet\obj\Debug\Meet.exe
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\Sesiones Google Meet\Jueves 23-04\Meet\Meet\obj\Debug\Meet.pdb
