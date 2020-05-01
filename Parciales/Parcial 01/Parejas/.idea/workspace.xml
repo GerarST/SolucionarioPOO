@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb98dc62-ce3d-46e3-8b34-cec428f83135" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ajBKlz9uJVZ550n07Cfq07caHJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Parciales/REDACTED_Parcial01_POO/Parcial01" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.WRMH.x00100919.Main" />
+      <module name="Parejas" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587341394339">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="139" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587341394339" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1587241276039">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587241276039" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587687979961">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587687979961" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1587436746142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@-1920.0.1536.834" timestamp="1587348609266" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587436746142" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1587436746142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@-1920.0.1536.834" timestamp="1587348609265" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587436746142" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1587436746141">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@-1920.0.1536.834" timestamp="1587348609265" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587436746141" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1587436746142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@-1920.0.1536.834" timestamp="1587348609265" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587436746142" />
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1587242206873">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587242206873" />
+    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1587242206873">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587242206873" />
+    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1587242206872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587242206872" />
+    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1587242206873">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587242206873" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1587433718905">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587433718905" />
+    <state x="429" y="37" key="new project wizard" timestamp="1587433791248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="429" y="37" key="new project wizard/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1587433791248" />
+  </component>
+</project>
