@@ -3,27 +3,30 @@
     public static class Calculadora
     {
         private static double a = 0, b = 0, res = 0;
-        private static char op; 
+        private static char op;
 
-        public static string SetFirstNumber(double x)
+        public static double A
         {
-            a = x;
-            return a.ToString();
-            // 4
+            get => a;
+            set => a = value;
         }
 
-        public static string SetOperator(char c)
+        public static double B
         {
-            op = c;
-            return a + $" {op} ";
-            // 4 +
+            get => b;
+            set => b = value;
         }
 
-        public static string SetSecondNumber(double x)
+        public static double Res
         {
-            b = x;
-            return a + $" {op} " + b;
-            // 4 + 9
+            get => res;
+            set => res = value;
+        }
+
+        public static char Op
+        {
+            get => op;
+            set => op = value;
         }
 
         public static string Calculate()
@@ -43,7 +46,7 @@
                     res = a / b;
                     break;
             }
-            return a + $" {op} " + b + $" = " + res;
+            return res.ToString();
         }
     }
 }

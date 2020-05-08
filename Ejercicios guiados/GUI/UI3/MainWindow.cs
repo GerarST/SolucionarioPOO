@@ -12,16 +12,73 @@ namespace UI3
 {
     public partial class MainWindow : Form
     {
-        private bool firstNumber, secondNumber, setOperation;
+        private bool setOperation, setFirstDecimal, setSecondDecimal;
+        private String first, second, ope;
         public MainWindow()
         {
-            firstNumber = secondNumber = setOperation = false;
+            setFirstDecimal = setSecondDecimal = setOperation = false;
+            first = second = ope = "";
             InitializeComponent();
         }
 
-        private void mainLayout_Paint(object sender, PaintEventArgs e)
+        private void ButtonAction(double number)
         {
+            if (!setOperation)
+                first += number;
+            else
+                second += number;
+
+            label1.Text = first + ope + second;
+        }
+
+        private void OperatorAction(char c)
+        {
+            if (!setOperation)
+            {
+                ope = c.ToString();
+                
+                Calculadora.A = Convert.ToDouble(first);
+                Calculadora.Op = c;
+                
+                setOperation = true;
+
+                label1.Text = first + ope + second;
+                return;
+            }
             
+            if(setOperation && !second.Equals(""))
+            {
+                Calculadora.B = Convert.ToDouble(second);
+                
+                first = Calculadora.Calculate();
+                second = "";
+
+                Calculadora.A = Convert.ToDouble(first);
+
+                ope = c.ToString();
+                Calculadora.Op = c;
+                
+                setOperation = true;
+                
+                label1.Text = first + ope + second;
+            }
+        }
+
+        private void SetDot()
+        {
+            if (second.Equals("") && !setFirstDecimal)
+            {
+                first += ".";
+                setFirstDecimal = true;
+            }
+
+            if (!second.Equals("") && !setSecondDecimal)
+            {
+                second += ".";
+                setSecondDecimal = true;
+            }
+
+            label1.Text = first + ope + second;
         }
 
         private void equalsButton_Click(object sender, EventArgs e)
@@ -31,40 +88,62 @@ namespace UI3
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (!firstNumber)
-            {
-                label1.Text = Calculadora.SetFirstNumber(7);
-                firstNumber = true;
-                return;
-            }
-
-            if (setOperation)
-            {
-                label1.Text = Calculadora.SetSecondNumber(7);
-            }
+            ButtonAction(7);
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            if (!firstNumber)
-            {
-                label1.Text = Calculadora.SetFirstNumber(9);
-                firstNumber = true;
-                return;
-            }
-
-            if (setOperation)
-            {
-                label1.Text = Calculadora.SetSecondNumber(9);
-            }
+            ButtonAction(9);
         }
 
-        private void Button_Click(object sender, EventArgs e)
+        private void MultiplyButton_Click(object sender, EventArgs e)
         {
-            if (firstNumber)
-                label1.Text = Calculadora.SetOperator('*');
+            OperatorAction('*');
+        }
 
-            setOperation = true;
+        private void button8_Click(object sender, EventArgs e)
+        {
+            ButtonAction(8);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ButtonAction(4);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ButtonAction(5);
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            ButtonAction(6);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ButtonAction(1);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ButtonAction(2);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ButtonAction(3);
+        }
+
+        private void button0_Click(object sender, EventArgs e)
+        {
+            ButtonAction(0);
+        }
+
+        private void dot_Click(object sender, EventArgs e)
+        {
+            SetDot();
         }
     }
 }
