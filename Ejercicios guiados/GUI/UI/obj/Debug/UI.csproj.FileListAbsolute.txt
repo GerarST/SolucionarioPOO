@@ -1,0 +1,10 @@
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\bin\Debug\UI.exe.config
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\bin\Debug\UI.exe
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\bin\Debug\UI.pdb
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.exe
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.pdb
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI\obj\Debug\UI.Form1.resources
