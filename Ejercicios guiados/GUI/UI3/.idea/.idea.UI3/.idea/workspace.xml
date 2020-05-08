@@ -18,9 +18,9 @@
       <list>
         <option value="$PROJECT_DIR$/Form1.cs" />
         <option value="$PROJECT_DIR$/Form1.Designer.cs" />
-        <option value="$PROJECT_DIR$/MainWindow.Designer.cs" />
         <option value="$PROJECT_DIR$/Calculadora.cs" />
         <option value="$PROJECT_DIR$/MainWindow.cs" />
+        <option value="$PROJECT_DIR$/MainWindow.Designer.cs" />
       </list>
     </option>
   </component>
@@ -66,22 +66,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1588909333507">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1588911025163">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588909333507" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1588909333507">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588911025163" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1588911025162">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588909333507" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1588909333507">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588911025162" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1588911025162">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588909333507" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1588909333507">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588911025162" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1588911025163">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588909333507" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588911025163" />
     <state width="1493" height="292" key="GridCell.Tab.1.bottom" timestamp="1588909209407">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -158,9 +158,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588806384283" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1588908594352">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1588909492698">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588908594352" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.834/0.0.1536.834@0.0.1536.834" timestamp="1588909492698" />
   </component>
 </project>

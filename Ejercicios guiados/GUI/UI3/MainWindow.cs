@@ -145,5 +145,20 @@ namespace UI3
         {
             SetDot();
         }
+
+        private void divideButton_Click(object sender, EventArgs e)
+        {
+            OperatorAction('/');
+        }
+
+        private void addButton_Click(object sender, EventArgs e)
+        {
+            OperatorAction('+');
+        }
+
+        private void sustractButton_Click(object sender, EventArgs e)
+        {
+            OperatorAction('-');
+        }
     }
 }
