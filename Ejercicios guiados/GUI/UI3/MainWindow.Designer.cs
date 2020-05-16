@@ -51,9 +51,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.mainLayout.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // mainLayout
-            // 
             this.mainLayout.AutoSize = true;
             this.mainLayout.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.mainLayout.ColumnCount = 4;
@@ -94,9 +91,6 @@
             this.mainLayout.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 54F));
             this.mainLayout.Size = new System.Drawing.Size(349, 524);
             this.mainLayout.TabIndex = 0;
-            // 
-            // dot
-            // 
             this.dot.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.dot.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dot.FlatAppearance.BorderSize = 0;
@@ -109,9 +103,6 @@
             this.dot.Text = ".";
             this.dot.UseVisualStyleBackColor = false;
             this.dot.Click += new System.EventHandler(this.dot_Click);
-            // 
-            // button0
-            // 
             this.button0.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button0.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button0.FlatAppearance.BorderSize = 0;
@@ -124,9 +115,6 @@
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = false;
             this.button0.Click += new System.EventHandler(this.button0_Click);
-            // 
-            // button4
-            // 
             this.button4.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button4.FlatAppearance.BorderSize = 0;
@@ -139,9 +127,6 @@
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // button5
-            // 
             this.button5.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button5.FlatAppearance.BorderSize = 0;
@@ -154,9 +139,6 @@
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
-            // button6
-            // 
             this.button6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button6.FlatAppearance.BorderSize = 0;
@@ -169,9 +151,6 @@
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
-            // 
-            // button7
-            // 
             this.button7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button7.FlatAppearance.BorderSize = 0;
@@ -184,9 +163,6 @@
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
-            // 
-            // button8
-            // 
             this.button8.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button8.FlatAppearance.BorderSize = 0;
@@ -199,9 +175,6 @@
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Click += new System.EventHandler(this.button8_Click);
-            // 
-            // button9
-            // 
             this.button9.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button9.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button9.FlatAppearance.BorderSize = 0;
@@ -214,9 +187,6 @@
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Click += new System.EventHandler(this.button9_Click);
-            // 
-            // buttonDelete
-            // 
             this.buttonDelete.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.buttonDelete.Dock = System.Windows.Forms.DockStyle.Fill;
             this.buttonDelete.FlatAppearance.BorderSize = 0;
@@ -228,9 +198,6 @@
             this.buttonDelete.TabIndex = 0;
             this.buttonDelete.Text = "C";
             this.buttonDelete.UseVisualStyleBackColor = false;
-            // 
-            // button1
-            // 
             this.button1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.FlatAppearance.BorderSize = 0;
@@ -243,9 +210,6 @@
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
             this.button2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button2.FlatAppearance.BorderSize = 0;
@@ -258,9 +222,6 @@
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
             this.button3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button3.FlatAppearance.BorderSize = 0;
@@ -273,9 +234,6 @@
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // divideButton
-            // 
             this.divideButton.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.divideButton.Dock = System.Windows.Forms.DockStyle.Fill;
             this.divideButton.FlatAppearance.BorderSize = 0;
@@ -289,9 +247,6 @@
             this.divideButton.Text = "/";
             this.divideButton.UseVisualStyleBackColor = false;
             this.divideButton.Click += new System.EventHandler(this.divideButton_Click);
-            // 
-            // multiplyButton
-            // 
             this.multiplyButton.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.multiplyButton.Dock = System.Windows.Forms.DockStyle.Fill;
             this.multiplyButton.FlatAppearance.BorderSize = 0;
@@ -304,9 +259,6 @@
             this.multiplyButton.Text = "X";
             this.multiplyButton.UseVisualStyleBackColor = false;
             this.multiplyButton.Click += new System.EventHandler(this.MultiplyButton_Click);
-            // 
-            // addButton
-            // 
             this.addButton.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.addButton.Dock = System.Windows.Forms.DockStyle.Fill;
             this.addButton.FlatAppearance.BorderSize = 0;
@@ -319,9 +271,6 @@
             this.addButton.Text = "+";
             this.addButton.UseVisualStyleBackColor = false;
             this.addButton.Click += new System.EventHandler(this.addButton_Click);
-            // 
-            // sustractButton
-            // 
             this.sustractButton.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.sustractButton.Dock = System.Windows.Forms.DockStyle.Fill;
             this.sustractButton.FlatAppearance.BorderSize = 0;
@@ -334,9 +283,6 @@
             this.sustractButton.Text = "-";
             this.sustractButton.UseVisualStyleBackColor = false;
             this.sustractButton.Click += new System.EventHandler(this.sustractButton_Click);
-            // 
-            // buttonDeleteAll
-            // 
             this.buttonDeleteAll.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.mainLayout.SetColumnSpan(this.buttonDeleteAll, 2);
             this.buttonDeleteAll.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -349,9 +295,6 @@
             this.buttonDeleteAll.TabIndex = 0;
             this.buttonDeleteAll.Text = "CE";
             this.buttonDeleteAll.UseVisualStyleBackColor = false;
-            // 
-            // equalsButton
-            // 
             this.equalsButton.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.mainLayout.SetColumnSpan(this.equalsButton, 2);
             this.equalsButton.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -365,9 +308,6 @@
             this.equalsButton.Text = "=";
             this.equalsButton.UseVisualStyleBackColor = false;
             this.equalsButton.Click += new System.EventHandler(this.equalsButton_Click);
-            // 
-            // label1
-            // 
             this.mainLayout.SetColumnSpan(this.label1, 4);
             this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label1.Font = new System.Drawing.Font("Consolas", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
@@ -378,9 +318,6 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // MainWindow
-            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(20F, 43F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;

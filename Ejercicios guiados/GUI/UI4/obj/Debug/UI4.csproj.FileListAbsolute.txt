@@ -1,0 +1,11 @@
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\bin\Debug\UI4.exe.config
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\bin\Debug\UI4.pdb
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.csprojAssemblyReference.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.Properties.Resources.resources
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.csproj.GenerateResource.cache
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.exe
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.pdb
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.Login.resources
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.Register.resources
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.Form1.resources
+C:\Users\walte\Documents\Workspaces\POO\SolucionarioPOO\Ejercicios guiados\GUI\UI4\obj\Debug\UI4.csproj.CopyComplete
